@@ -283,6 +283,3 @@ public class Window extends JPanel implements ActionListener {
 
 }
 
-//086470281
-//gal rives,
-    //noar mizrahi
